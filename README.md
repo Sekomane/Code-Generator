@@ -1,5 +1,7 @@
 # Code Generator App
 
+![App Screenshot](app.png)
+
 A simple React app that generates code snippets and QR codes based on your input.
 
 ## Live Demo
